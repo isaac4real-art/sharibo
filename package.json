@@ -8,6 +8,10 @@
     "scripts",
     "app"
   ],
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2"
+  },
   "scripts": {
     "e2e": "npm run e2e --workspace=scripts"
   }
